@@ -1,4 +1,4 @@
-# Gemini AI Auth Form
+# Gemini AI Chatbot
 
 🔗  Live Preview: [[Click here](https://sparkly-haupia-5d1902.netlify.app/)]
 
